@@ -1,0 +1,6 @@
+{
+  "name": "Maison d'Aura",
+  "description": "An immersive haute parfumerie digital flagship experience, featuring a bespoke scent matching quiz, olfactory pyramid explorer, product customization, and a seamless shopping & checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
